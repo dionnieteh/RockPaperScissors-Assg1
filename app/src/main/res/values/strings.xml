@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="opt1">Rock</string>
+    <string name="opt2">Paper</string>
+    <string name="opt3">Scissors</string>
+    <string name="gamePrompt">Make your choice:</string>
+    <string name="startBtn">Start game!</string>
+    <string name="replayBtn">"Replay"</string>
+    <string name="title">Rock, Paper, Scissors!</string>
+    <string name="banner">rock paper scissor image</string>
+    <string name="vs">VS</string>
+    <string name="user">You</string>
+    <string name="computer">Computer</string>
+</resources>
